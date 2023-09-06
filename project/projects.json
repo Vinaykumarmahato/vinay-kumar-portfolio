@@ -1,0 +1,120 @@
+[
+    {
+        "name": "Tic-Tac-Toe-Game",
+    "desc": "A classic game of Tic-Tac-Toe implemented in JavaScript.",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/ADVindiancoder/Tic-Tac-Toe-Game",
+      "code": "https://github.com/ADVindiancoder/Tic-Tac-Toe-Game"
+      }
+    },
+    {
+      "name": "Currency-Converter",
+      "desc": "A simple currency converter application.",
+      "category": "basicweb",
+      "links": {
+        "view": "https://currencyconverteradv.netlify.app/",
+        "code": "https://github.com/ADVindiancoder/Currency-Converter"
+      }
+    },
+    {
+      "name": "To-Do-List-App",
+      "desc": "A web-based to-do list application.",
+      "category": "basicweb",
+      "links": {
+        "view": "https://to-do-list-adv.netlify.app/",
+        "code": "https://github.com/ADVindiancoder/to-do-list-app-ADV"
+      }
+    },
+    {
+      "name": "Drawing-App",
+      "desc": "A web-based drawing application.",
+      "category": "basicweb",
+      "links": {
+        "view": "https://drawingadv.netlify.app/",
+        "code": "https://github.com/ADVindiancoder/Drawing-App"
+      }
+    },
+    {
+      "name": "Simple-Calculator-Using-Java",
+      "desc": "A basic calculator implemented in Java.",
+      "category": "java",
+      "links": {
+        "view": "https://calculator-adv.netlify.app/",
+        "code": "https://github.com/ADVindiancoder/Simple-Calculator-Using-java"
+      }
+    },
+    {
+      "name": "ADV-Certificate-Verification",
+      "desc": "Certificate verification system.",
+      "category": "basicweb",
+      "links": {
+        "view": "https://advindiancoder.github.io/ADV-Certificate-Verification/",
+        "code": "https://github.com/ADVindiancoder/ADV-Certificate-Verification"
+      }
+    },
+    {
+      "name": "ADV-Parallax-Website",
+      "desc": "Parallax scrolling website.",
+      "category": "basicweb",
+      "links": {
+        "view": "https://advindiancoder.github.io/ADV-Parallax-Website---ADV-Indian-Coder/",
+        "code": "https://github.com/ADVindiancoder/ADV-Parallax-Website---ADV-Indian-Coder"
+      }
+    },
+    {
+      "name": "Whatsapp-Ui-Clone",
+      "desc": "WhatsApp user interface clone.",
+      "category": "basicweb",
+      "links": {
+        "view": "https://www.linkedin.com/posts/vinay-kumar860964_webdevelopment-whatsappclone-octanetmagic-activity-7096391342058090496-FDBn?utm_source=share&utm_medium=member_desktop",
+        "code": "https://github.com/ADVindiancoder/whatsapp-ui-clone-/tree/main/whatsapp"
+      }
+    },
+    {
+      "name": "Hospital-Management-System",
+      "desc": "A hospital management system.",
+      "category": "basicweb",
+      "links": {
+        "view": "https://github.com/ADVindiancoder/Hospital-Management-System-Console-base-Application-Project",
+        "code": "https://github.com/ADVindiancoder/Hospital-Management-System-Console-base-Application-Project"
+      }
+    },
+    {
+      "name": "ADV-Indian-Coder-Website-For-Free-Education",
+      "desc": "Indian Coder website for free education.",
+      "category": "basicweb",
+      "links": {
+        "view": "https://vinayjavadeveloper.netlify.app/",
+        "code": "https://github.com/ADVindiancoder/ADV-Indian-Coder-Website-for-Free-Education"
+      }
+    },
+    {
+      "name": "Bank-Application-Java-Console_based",
+      "desc": "Bank application implemented in Java (console-based).",
+      "category": "java",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Guesser-Game-Java-Console_based",
+      "desc": "Number guesser game implemented in Java (console-based).",
+      "category": "java",
+      "links": {
+        "view": "https://github.com/ADVindiancoder/Bank-Application-Java-console_based--project",
+        "code": "https://github.com/ADVindiancoder/Bank-Application-Java-console_based--project"
+      }
+    },
+    {
+      "name": "Food-Delivery-Website-Using-CSS-HTML.-JS",
+      "desc": "A food delivery website using CSS, HTML, and JavaScript.",
+      "category": "basicweb",
+      "links": {
+        "view": "https://github.com/ADVindiancoder/food-delivery-website-using-CSS-HTML.-JS",
+        "code": "https://github.com/ADVindiancoder/food-delivery-website-using-CSS-HTML.-JS"
+      }
+    }
+  ]
+  

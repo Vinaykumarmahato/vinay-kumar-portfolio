@@ -12,6 +12,7 @@
       "name": "Currency-Converter",
       "desc": "A simple currency converter application.",
       "category": "basicweb",
+      "image":"cmsoon.png",
       "links": {
         "view": "https://currencyconverteradv.netlify.app/",
         "code": "https://github.com/ADVindiancoder/Currency-Converter"

@@ -47,10 +47,7 @@
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/24/000000/javascript--v1.png"
     },
-    {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/24/000000/python--v1.png"
-    },
+  
     {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/24/000000/mongodb.png"

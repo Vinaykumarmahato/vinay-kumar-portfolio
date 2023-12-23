@@ -17,7 +17,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: #f7f7f7;
+  background: white;
   font-family: "Poppins", sans-serif;
 }
 
@@ -71,7 +71,7 @@ header {
   padding: 1.7rem 10%;
   height: 6.5rem;
   background-color: #fff;
-  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
+  box-shadow: 0 1px 4px rgba(240, 16, 202, 0.966);
 }
 section {
   min-height: 100vh;

@@ -769,7 +769,7 @@ header .navbar ul li a:hover {
   content: "";
   position: absolute;
   width: 6px;
-  background: #020133;
+  background: #d43bd4;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -790,14 +790,14 @@ header .navbar ul li a:hover {
   height: 25px;
   right: -17px;
   background-color: rgb(255, 255, 255);
-  border: 4px solid #ff9f55;
+  border: 4px solid #ff55d4;
   top: 15px;
   border-radius: 50%;
   z-index: 100;
   font-size: 1.89rem;
   text-align: center;
   font-weight: 600;
-  color: #02094b;
+  color: #3235d8;
   font-family: "Font Awesome\ 5 Free";
 }
 .experience .left {
@@ -932,7 +932,7 @@ header .navbar ul li a:hover {
 
 /* contact section starts */
 .contact {
-  background: #e5ecfb;
+  background: #316cec;
   min-height: 60vh;
 }
 .contact .container {

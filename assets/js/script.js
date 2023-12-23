@@ -142,7 +142,7 @@ function showProjects(projects) {
     });
 
     /* SCROLL PROJECTS */
-    srtop.reveal('.work .box', { interval: 400 });
+    srtop.reveal('.work .box', { interval: 200 });
 
 }
 
@@ -191,7 +191,7 @@ document.onkeydown = function (e) {
 }
 
 // Start of Tawk.to Live Chat
-/* var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
 var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
 s1.async=true;
@@ -199,7 +199,7 @@ s1.src='https://embed.tawk.to/658676ed70c9f2407f82c66f/1hiak14sc';
 s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
-})(); */
+})();
 // End of Tawk.to Live Chat
 
 
@@ -212,9 +212,9 @@ const srtop = ScrollReveal({
 });
 
 /* SCROLL HOME */
-srtop.reveal('.home .content h3', { delay: 200 });
-srtop.reveal('.home .content p', { delay: 200 });
-srtop.reveal('.home .content .btn', { delay: 200 });
+srtop.reveal('.home .content h3', { delay: 100 });
+srtop.reveal('.home .content p', { delay: 100 });
+srtop.reveal('.home .content .btn', { delay: 100 });
 
 srtop.reveal('.home .image', { delay:100 });
 srtop.reveal('.home .linkedin', { interval: 600 });
@@ -233,14 +233,14 @@ srtop.reveal('.about .content .resumebtn', { delay: 100 });
 
 
 /* SCROLL SKILLS */
-srtop.reveal('.skills .container', { interval: 400 });
+srtop.reveal('.skills .container', { interval: 200 });
 srtop.reveal('.skills .container .bar', { delay: 100 });
 
 /* SCROLL EDUCATION */
-srtop.reveal('.education .box', { interval: 400 });
+srtop.reveal('.education .box', { interval: 200 });
 
 /* SCROLL PROJECTS */
-srtop.reveal('.work .box', { interval: 400 });
+srtop.reveal('.work .box', { interval: 200 });
 
 /* SCROLL EXPERIENCE */
 srtop.reveal('.experience .timeline', { delay: 200 });

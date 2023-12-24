@@ -1,0 +1,220 @@
+/* Reset some default styles */
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #3c6ea8cb;
+}
+
+/* Global styling */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Header styles */
+header {
+    background-color: #fff;
+    color: #ffffff;
+    padding: 20px 0;
+    position: fixed;
+    box-shadow: black;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.navbar {
+    display: flex;
+    list-style-type: none;
+}
+
+.navbar li {
+    margin-right: 20px;
+}
+
+/* Experience section styles */
+.experience {
+    padding: 80px 0;
+    text-align: center;
+}
+
+.heading {
+    font-size: 2.5rem;
+    color: #f1f5f8;
+    margin-bottom: 20px;
+}
+
+.quote {
+    font-style: italic;
+    color: #f0f3f7;
+}
+
+.animated-background {
+    position: relative;
+    height: 200px;
+    overflow: hidden;
+}
+
+#stars1,
+#stars2,
+#stars3 {
+    width: 1px;
+    height: 1px;
+    background: #fff;
+    position: absolute;
+    animation: animate 50s linear infinite;
+}
+
+/* Certificate container styles */
+#certificateContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.certificate {
+    margin: 10px;
+    text-align: center;
+}
+
+.certificate img {
+    width: 100%;
+    max-width: 200px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.certificate img:hover {
+    transform: scale(1.1);
+}
+
+/* More button styles */
+.morebtn {
+    margin-top: 30px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #343a40;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn i {
+    margin-right: 5px;
+}
+
+/* Footer styles */
+.footer {
+    background-color: #0a0346;
+    color: #fff;
+    padding: 60px 0;
+}
+
+.box-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.share {
+    margin-top: 20px;
+}
+
+.credit {
+    margin-top: 40px;
+    text-align: center;
+}
+
+/* Scroll to top button */
+#scroll-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 2rem;
+    color: #343a40;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: none;
+}
+
+/* Add pulse animation to the heart icon */
+.pulse {
+    animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+/* Media query for responsiveness */
+@media (max-width: 768px) {
+    header {
+        padding: 15px 0;
+    }
+
+    .navbar {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        width: 100%;
+        background-color: #343a40;
+    }
+
+    .navbar.active {
+        display: flex;
+    }
+
+    .navbar li {
+        margin: 10px 0;
+    }
+
+    #scroll-top {
+        bottom: 15px;
+        right: 15px;
+    }
+}
